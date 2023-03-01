@@ -1,3 +1,1 @@
-# Exercise
-
-Ref: [Answer](https://github.com/shenzhongkang/frontend-mission)
+This is my react prictice.
